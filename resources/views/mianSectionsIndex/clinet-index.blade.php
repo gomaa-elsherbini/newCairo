@@ -1,6 +1,6 @@
 <!-- start clinet-index  -->
 <section class="clinet-index mr-section">
-    <div class="main-container">--}}
+    <div class="main-container">
         <div class="title-center">
             <span></span>
             <h2>العملاء </h2>
